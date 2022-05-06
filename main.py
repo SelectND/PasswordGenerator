@@ -16,3 +16,4 @@ if __name__ == '__main__':
     # converting array to string and printing the string
     finalPassword = ("".join(passwd))
     print(finalPassword)
+    input("Press any key to leave: ")
